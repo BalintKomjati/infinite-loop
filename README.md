@@ -61,7 +61,7 @@ Videos above were generated using the default settings in the notebook. Other th
 
 Pull requests are welcome!
 
-Here Backlog of potential improvements:
+Here is a backlog of potential improvements to get you started :) 
 
  - Add the possibility for the output to "drift" between prompts (now uses the same prompt for all images with different seed)
  - Fix the issue that any resolution higer than 512 will drastically decrease the network's imagination resulting the generated video rather boring. (e.g. upscale after each inpainting step?)
